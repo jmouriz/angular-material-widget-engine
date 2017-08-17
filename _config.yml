@@ -1,0 +1,8 @@
+title: Angular Material Widget Engine
+description: Awesome Widget Engine
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
